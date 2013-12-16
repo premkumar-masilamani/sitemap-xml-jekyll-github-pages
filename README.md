@@ -15,11 +15,12 @@ You may have to add the date tags to all the pages in your website (basically an
 
 ### Example
 
+{% raw %}
 ---
 layout: default
 **date: 2013-12-12 00:00:00 +0530**
 title: About Premkumar Masilamani
 permalink: /about/
 ---
-
+{% endraw %}
 
