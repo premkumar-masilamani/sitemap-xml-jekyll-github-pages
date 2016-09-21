@@ -18,6 +18,6 @@ You may have to add the date tags to all the pages in your website (basically an
 <div>
 ---<br/>
 layout: default<br/>
-<b>date: 2013-12-12 00:00:00 +0530</b><br/>
+date: 2013-12-12 00:00:00 +0530<br/>
 ---<br/>
 </div>
