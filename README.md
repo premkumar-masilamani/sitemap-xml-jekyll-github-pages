@@ -1,7 +1,7 @@
 sitemap-xml-for-github
 ======================
 
-If you host your website/blog in GitHub, this sitemap would be useful to you.  
+If you host your jekyll based website/blog in GitHub, this sitemap would be useful to you.  
 
 I don't need to re-iterate the importance of having a sitemap xml for your website. There are lot of jekyll plugins out there, which generates the sitemap xml for your jekyll website. However, custom plugins are disabled in GitHub.  
 
@@ -19,7 +19,5 @@ You may have to add the date tags to all the pages in your website (basically an
 ---<br/>
 layout: default<br/>
 <b>date: 2013-12-12 00:00:00 +0530</b><br/>
-title: About Premkumar Masilamani<br/>
-permalink: /about/<br/>
 ---<br/>
 </div>
